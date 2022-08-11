@@ -1,0 +1,5 @@
+CCDLITE merupakan serangkaian cerita yang harus diselesaikan secara urut.
+Setiap chapter memiliki tingkat kesulitan yang berbeda. Pada setiap chapter
+terdapat instruksi/kisah yang harus diselesaikan. Pada beberapa chapter
+terdapat binary yang mana bisa digunakan untuk mencari petunjuk. Untuk 
+mengerjakan chapter berikutnya, jawaban dari chapter sebelumnya diperlukan.
